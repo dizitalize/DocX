@@ -1,0 +1,23 @@
+[
+  {
+    "id": "root",
+    "type": "folder",
+    "path": "root/root",
+    "title": "root",
+    "pages": []
+  },
+  {
+    "id": "folder-1762575430654",
+    "type": "folder",
+    "path": "root/root/new-folder",
+    "title": "New Folder",
+    "pages": []
+  },
+  {
+    "id": "folder-1762583466813",
+    "type": "folder",
+    "path": "root/root/new-folder",
+    "title": "New Folder",
+    "pages": []
+  }
+]
