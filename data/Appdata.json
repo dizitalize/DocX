@@ -3,7 +3,7 @@
     {
       "id": "root",
       "type": "folder",
-      "title": "Pages",
+      "title": "root",
       "children": [
         {
           "id": "folder-1762575430654",
@@ -19,7 +19,7 @@
   "history": {},
   "users": {},
   "syncMeta": {
-    "lastSync": "2025-11-08T06:02:29.264Z",
+    "lastSync": "2025-11-08T06:13:38.394Z",
     "dirty": true
   }
 }
