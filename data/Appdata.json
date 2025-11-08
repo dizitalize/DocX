@@ -4,7 +4,14 @@
       "id": "root",
       "type": "folder",
       "title": "Pages",
-      "children": []
+      "children": [
+        {
+          "id": "folder-1762575430654",
+          "type": "folder",
+          "title": "New Folder",
+          "children": []
+        }
+      ]
     }
   ],
   "docs": {},
@@ -12,7 +19,7 @@
   "history": {},
   "users": {},
   "syncMeta": {
-    "lastSync": "2025-11-08T04:16:23.317Z",
+    "lastSync": "2025-11-08T04:17:10.702Z",
     "dirty": true
   }
 }
