@@ -166,5 +166,13 @@
     "counts": {
       "docs": 0
     }
+  },
+  {
+    "ts": "2025-11-08T06:02:30.520Z",
+    "user": "mohan@example.com",
+    "dirty": true,
+    "counts": {
+      "docs": 0
+    }
   }
 ]
