@@ -14,5 +14,13 @@
     "counts": {
       "docs": 0
     }
+  },
+  {
+    "ts": "2025-11-08T04:20:40.305Z",
+    "user": "mohan@example.com",
+    "dirty": true,
+    "counts": {
+      "docs": 0
+    }
   }
 ]
