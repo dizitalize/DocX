@@ -19,7 +19,9 @@
   "history": {},
   "users": {},
   "syncMeta": {
-    "lastSync": "2025-11-08T04:17:10.702Z",
-    "dirty": true
+    "lastSync": "2025-11-08T04:20:39.077Z",
+    "dirty": true,
+    "remoteSha": "cbe839d8403bed63fbbb84f09bf8f98d4ddb68f2",
+    "conflicts": []
   }
 }
