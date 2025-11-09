@@ -15,7 +15,7 @@
               "type": "doc",
               "title": "Untitled Page",
               "initial": {
-                "content": "<p>Start writingâ¦</p>"
+                "content": "<p>Start writingÃ¢ÂÂ¦</p>"
               }
             },
             {
@@ -34,7 +34,7 @@
   "history": {},
   "users": {},
   "syncMeta": {
-    "lastSync": "2025-11-09T13:49:41.300Z",
+    "lastSync": "2025-11-09T13:50:36.338Z",
     "dirty": true
   }
 }
