@@ -29,7 +29,14 @@
                     "id": "folder-1762708995952",
                     "type": "folder",
                     "title": "New Folder",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "folder-1762712920843",
+                        "type": "folder",
+                        "title": "New Folder",
+                        "children": []
+                      }
+                    ]
                   }
                 ]
               }
