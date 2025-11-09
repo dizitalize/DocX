@@ -22,19 +22,39 @@
               "id": "folder-1762586581264",
               "type": "folder",
               "title": "New Focdscsdcslder",
-              "children": []
+              "children": [
+                {
+                  "id": "doc-1762696322195",
+                  "type": "doc",
+                  "title": "Untitled Page",
+                  "initial": {
+                    "content": "<p>Start writing…</p>"
+                  }
+                }
+              ]
             }
           ]
         }
       ]
     }
   ],
-  "docs": {},
-  "comments": {},
-  "history": {},
+  "docs": {
+    "doc-1762696322195": {
+      "title": "Untitled Page",
+      "content": "<p>Start writing…</p>",
+      "updatedAt": "2025-11-09T13:52:02.198Z",
+      "lastEditedBy": "Unknown"
+    }
+  },
+  "comments": {
+    "doc-1762696322195": {}
+  },
+  "history": {
+    "doc-1762696322195": []
+  },
   "users": {},
   "syncMeta": {
-    "lastSync": "2025-11-09T13:51:03.230Z",
+    "lastSync": "2025-11-09T13:52:03.996Z",
     "dirty": true
   }
 }
