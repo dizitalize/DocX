@@ -29,15 +29,16 @@
                     "id": "folder-1762708995952",
                     "type": "folder",
                     "title": "New Folder",
-                    "children": []
-                  },
-                  {
-                    "id": "doc-1762712947508",
-                    "type": "doc",
-                    "title": "Untitled Page",
-                    "initial": {
-                      "content": "<p>Start writing…</p>"
-                    }
+                    "children": [
+                      {
+                        "id": "doc-1762713060318",
+                        "type": "doc",
+                        "title": "Untitled Page",
+                        "initial": {
+                          "content": "<p>Start writing…</p>"
+                        }
+                      }
+                    ]
                   }
                 ]
               }
