@@ -70,5 +70,13 @@
     "counts": {
       "docs": 1
     }
+  },
+  {
+    "ts": "2025-11-09T13:59:27.259Z",
+    "user": "mohan@example.com",
+    "dirty": true,
+    "counts": {
+      "docs": 1
+    }
   }
 ]
