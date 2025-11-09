@@ -11,10 +11,17 @@
         "initial": null
       },
       {
-        "id": "folder-1762708198394",
+        "id": "folder-1762708495686",
         "type": "folder",
-        "title": "New Foldder",
-        "children": []
+        "title": "test",
+        "children": [
+          {
+            "id": "folder-1762708527491",
+            "type": "folder",
+            "title": "New Folder",
+            "children": []
+          }
+        ]
       }
     ]
   }
