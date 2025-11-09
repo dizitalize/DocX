@@ -18,8 +18,22 @@
           {
             "id": "folder-1762708527491",
             "type": "folder",
-            "title": "New Folder test",
-            "children": []
+            "title": "1",
+            "children": [
+              {
+                "id": "folder-1762708981668",
+                "type": "folder",
+                "title": "1",
+                "children": [
+                  {
+                    "id": "folder-1762708995952",
+                    "type": "folder",
+                    "title": "New Folder",
+                    "children": []
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
