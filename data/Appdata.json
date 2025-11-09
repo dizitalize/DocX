@@ -9,7 +9,22 @@
           "id": "folder-1762575430654",
           "type": "folder",
           "title": "New Folder",
-          "children": []
+          "children": [
+            {
+              "id": "doc-1762586578519",
+              "type": "doc",
+              "title": "Untitled Page",
+              "initial": {
+                "content": "<p>Start writing…</p>"
+              }
+            },
+            {
+              "id": "folder-1762586581264",
+              "type": "folder",
+              "title": "New Focdscsdcslder",
+              "children": []
+            }
+          ]
         }
       ]
     }
@@ -19,7 +34,7 @@
   "history": {},
   "users": {},
   "syncMeta": {
-    "lastSync": "2025-11-08T07:22:32.669Z",
+    "lastSync": "2025-11-09T13:48:03.876Z",
     "dirty": true
   }
 }
