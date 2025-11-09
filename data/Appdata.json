@@ -15,7 +15,7 @@
               "type": "doc",
               "title": "Untitled Page",
               "initial": {
-                "content": "<p>Start writingÃÂ¢ÃÂÃÂ¦</p>"
+                "content": "<p>Start writingÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¦</p>"
               }
             },
             {
@@ -28,7 +28,7 @@
                   "type": "doc",
                   "title": "Untitled Page",
                   "initial": {
-                    "content": "<p>Start writingâ¦</p>"
+                    "content": "<p>Start writingÃ¢ÂÂ¦</p>"
                   }
                 }
               ]
@@ -41,7 +41,7 @@
   "docs": {
     "doc-1762696322195": {
       "title": "Untitled Page",
-      "content": "<p>Start writingâ¦</p>",
+      "content": "<p>Start writingÃ¢ÂÂ¦</p>",
       "updatedAt": "2025-11-09T13:52:02.198Z",
       "lastEditedBy": "Unknown"
     }
@@ -53,15 +53,21 @@
     "doc-1762696322195": [
       {
         "user": "Unknown",
-        "content": "<p>Start writingâ¦</p>",
+        "content": "<p>Start writingÃ¢ÂÂ¦</p>",
         "title": "Untitled Page",
-        "ts": 1762696502914
+        "ts": 1762696562596
+      },
+      {
+        "user": "Unknown",
+        "content": "<p>Start writingÃ¢ÂÂ¦</p>",
+        "title": "Untitled Page",
+        "ts": 1762696443231
       }
     ]
   },
   "users": {},
   "syncMeta": {
-    "lastSync": "2025-11-09T13:55:03.845Z",
+    "lastSync": "2025-11-09T13:56:03.794Z",
     "dirty": true
   }
 }
