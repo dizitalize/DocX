@@ -3,6 +3,13 @@
     "id": "root",
     "type": "folder",
     "title": "Pages",
-    "children": []
+    "children": [
+      {
+        "id": "doc-1762703988593",
+        "type": "doc",
+        "title": "Welcome",
+        "initial": null
+      }
+    ]
   }
 ]
