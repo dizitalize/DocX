@@ -2,48 +2,13 @@
   {
     "id": "root",
     "type": "folder",
-    "title": "Pagess",
+    "title": "Pages",
     "children": [
       {
-        "id": "doc-1762704154034",
+        "id": "doc-1762748691103",
         "type": "doc",
         "title": "Welcome",
         "initial": null
-      },
-      {
-        "id": "folder-1762708495686",
-        "type": "folder",
-        "title": "test",
-        "children": [
-          {
-            "id": "folder-1762708527491",
-            "type": "folder",
-            "title": "1",
-            "children": [
-              {
-                "id": "folder-1762708981668",
-                "type": "folder",
-                "title": "1",
-                "children": [
-                  {
-                    "id": "folder-1762708995952",
-                    "type": "folder",
-                    "title": "New Folder",
-                    "children": []
-                  },
-                  {
-                    "id": "doc-1762712947508",
-                    "type": "doc",
-                    "title": "Untitled Page",
-                    "initial": {
-                      "content": "<p>Start writing…</p>"
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        ]
       }
     ]
   }
