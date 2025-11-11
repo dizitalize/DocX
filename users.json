@@ -5,6 +5,26 @@
     "password": "admin123",
     "role": "admin",
     "createdAt": "2025-11-09T15:23:19.219Z"
+  },
+  "moha": {
+    "id": "mohan",
+    "username": "moha",
+    "password": "moha123",
+    "role": "user",
+    "createdAt": "2025-11-11T15:23:19.219Z"
+  },
+  "pavan": {
+    "id": "pavan",
+    "username": "pavan",
+    "password": "pavan123",
+    "role": "user",
+    "createdAt": "2025-11-11T15:23:19.219Z"
+  },
+  "anish": {
+    "id": "anish",
+    "username": "anish",
+    "password": "anish123",
+    "role": "user",
+    "createdAt": "2025-11-11T15:23:19.219Z"
   }
-  
 }
